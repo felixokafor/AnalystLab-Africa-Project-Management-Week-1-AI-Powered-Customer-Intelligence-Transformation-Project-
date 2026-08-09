@@ -1,7 +1,7 @@
 # AnalystLab-Africa-Project-Management-Week-1-AI-Powered Customer Intelligence Transformation Project
 
 ## Overview
-This repository contains the Week 1 deliverables completed during the AnalystLab Africa Project Management Internship.
+This repository contains the Week 1 deliverables completed during the AnalystLab Africa (Project Management) Internship.
 
 ## Objectives
 - Understand project initiation and planning.
@@ -27,7 +27,6 @@ This repository contains the Week 1 deliverables completed during the AnalystLab
 ## Tools Used
 - Microsoft Word
 - Microsoft Excel
-- Lucidchart (or Draw.io)
 - GitHub
 
 ## Author
