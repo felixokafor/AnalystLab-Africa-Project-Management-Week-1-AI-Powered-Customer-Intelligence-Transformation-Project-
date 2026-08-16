@@ -38,9 +38,6 @@ The Week 2 deliverables include:
 - **Number of Activities:** 35
 - **Project Management Approach:** Structured phased execution
 - **Scheduling Tool:** Microsoft Excel
-- **Database:** PostgreSQL
-- **Programming/Data Processing:** Python
-- **Dashboard:** Power BI
 
 ## Project Management Techniques Used
 
@@ -77,9 +74,6 @@ This includes personnel, software licences, hardware, cloud services, training a
 
 - Microsoft Excel
 - Microsoft Word
-- PostgreSQL
-- Python
-- Power BI
 - Project collaboration tools
 
 ## Learning Outcomes
