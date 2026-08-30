@@ -1,14 +1,15 @@
-HealthConnect Clinic Experience Lab — Week 4
-Project Management Track
-Project: HealthConnect Clinic Experience Lab
-Project Title: Improving Patient Appointment Attendance and Healthcare Support Using Data and AI
-Stage: Problem Understanding & Project Initiation
-Overview
-Week 4 marked the beginning of the HealthConnect Experience Lab project. As a Project Management intern, my responsibility was to establish the initial structure required to plan, coordinate, and monitor the project across the different professional tracks.
-The project explores how data, machine 
+###HealthConnect Clinic Experience Lab — Week 4
+##Project Management Track
+##Project: HealthConnect Clinic Experience Lab
+##Project Title: Improving Patient Appointment Attendance and Healthcare Support Using Data and AI
+##Stage: Problem Understanding & Project Initiation
 
-learning, and Generative AI can support HealthConnect Clinic in reducing missed appointments and improving the patient support experience.
-Week 4 Objectives
+##Overview
+
+Week 4 marked the beginning of the HealthConnect Experience Lab project. As a Project Management intern, my responsibility was to establish the initial structure required to plan, coordinate, and monitor the project across the different professional tracks.
+The project explores how data, machine learning, and Generative AI can support HealthConnect Clinic in reducing missed appointments and improving the patient support experience.
+
+##Week 4 Objectives
 My main objectives were to:
 •	Define the project scope and objectives.
 •	Identify key stakeholders.
@@ -18,8 +19,8 @@ My main objectives were to:
 •	Identify initial project risks and dependencies.
 •	Establish an initial communication approach.
 •	Prepare the project foundation for the next stage.
-Deliverables Completed
 
+Deliverables Completed
 The following project management deliverables were developed:
 1.	Project Brief / Charter — Defined the project purpose, objectives, scope, stakeholders, assumptions, and overall direction.
 2.	Scope Statement — Established the boundaries of the HealthConnect project.
@@ -29,7 +30,8 @@ The following project management deliverables were developed:
 6.	Initial Risk & Dependency Register — Identified potential risks, dependencies, impacts, and mitigation approaches.
 7.	Communication Approach — Defined how project information, updates, decisions, risks, and issues should be communicated.
 8.	Week 4 Project Summary — Documented key observations, the proposed approach, considerations, and Week 5 focus.
-Key Project Management Insights
+9.	
+##Key Project Management Insights
 Week 4 highlighted the importance of establishing a strong project foundation before moving into development.
 The HealthConnect project involves multiple professional tracks, including:
 •	Project Management
@@ -37,9 +39,9 @@ The HealthConnect project involves multiple professional tracks, including:
 •	Data Science
 •	Machine Learning Engineering
 •	Generative AI
-
 Because these workstreams are interconnected, effective coordination, dependency management, communication, and risk monitoring will be important throughout the project.
-Key Considerations
+
+##Key Considerations
 Some factors identified during project initiation include:
 •	Data quality and completeness.
 •	Potential changes to project scope.
